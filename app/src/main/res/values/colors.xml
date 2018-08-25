@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4b4b4b</color>
+    <color name="colorPrimaryDark">#525252</color>
+    <color name="colorAccent">#c73741</color>
+    <color name="colorTextField">#959595</color>
+    <color name="colorLoginHint">#8e8e8e</color>
+    <color name="colorIconNavBarBackground">#f7f7f8</color>
+
+    <color name="colorLight">#878787</color>
+    <color name="colorError">#CF0000</color>
+    <color name="colorText">#505050</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorOk">#00A308</color>
+    <color name="colorFieldBorder">#D9D9D9</color>
+    <color name="colorCancel">#777777</color>
+    <color name="colorLightBlack">#00000A</color>
+    <color name="colorCircleProfile">#2a2a2a</color>
+    <color name="colorTitleProfile">#2b2b2b</color>
+    <color name="colorEmailProfile">#5b5b5b</color>
+    <color name="colorDividerProfile">#dbdbdb</color>
+    <color name="colorTextCircleProfie">#c3c3c3</color>
+    <color name="colorBottomNavigationBar">#fafafa</color>
+    <color name="colorSearchBrandBackground">#f9f9fb</color>
+    <color name="colorSearchBrandBackgroundBorder">#dce3e7</color>
+    <color name="colorSearchBrandText">#606366</color>
+
+    <!--TOOL BAR-->
+    <color name="colorTitle">#525252</color>
+    <color name="iconNavigationOff">#717171</color>
+    <color name="iconNavigationOn">#222222</color>
+
+</resources>
